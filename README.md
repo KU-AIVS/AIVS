@@ -40,7 +40,7 @@ include Image enhancement, Image super-resolution, Image compression & restorati
 - Image Quality Enhancement
 - Etc. (Various Applications)
 
-### 2.Generative Model
+### 2. Generative Model
 Generative AI model is a type of artificial intelligence that is designed to generate new data or content that is
 similar to, or indistinguishable from, data it has been trained on. These models are particularly prominent in the field
 of deep learning and are often used for various creative tasks, such as text generation, image synthesis, music
