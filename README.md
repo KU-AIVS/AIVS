@@ -1,4 +1,4 @@
-![logo of AIVS](files_of_Github\logo_eng.png "LOGO")
+![logo of AIVS](logo_eng.png "LOGO")
 
 # KUS_Artificial Intelligence & Vision System
 고려대학교 세종캠퍼스 전자및정보공학과 인공지능 및 비전 시스템 연구실 [📌홈페이지📌](http://aivs.korea.ac.kr)
