@@ -64,5 +64,8 @@ prediction, personalized medicine, and medical automation.
 - Medical Image Synthesis using Generative Model
 - GPT-based Medical Service Systems
 
+## Contact
+- The College of Science & Technology Building 1, 204
+
 ## version
 - 2023-12-15 by H.S.Kim
