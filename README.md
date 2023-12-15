@@ -68,5 +68,5 @@ prediction, personalized medicine, and medical automation.
 - The College of Science & Technology Building 1, 203(LAB)
 - The College of Science & Technology Building 1, 204(Professor)
   
-## version
+## Version
 - 2023-12-15 by H.S.Kim
