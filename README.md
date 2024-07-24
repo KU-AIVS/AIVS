@@ -13,10 +13,13 @@ Korea University Sejong EIEN Artificial Intelligence & Vision Systems LAB [📌H
   - Eunsol Park
   - Hyeonsu Kim
   - Woo-Jin Wang
-  - Do-Hee Lee
   - BoSeok Jang
   - Busin Choi
   - Miso Park
+  - Seongjun Kim
+  - Kihyun Sung
+  - Se-Eun Kwon
+  - Yeontaek Oh
 
 ## Research Topics
 ### 1. Computer Vision & Image Processing
