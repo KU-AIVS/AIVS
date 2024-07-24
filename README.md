@@ -9,15 +9,16 @@ Korea University Sejong EIEN Artificial Intelligence & Vision Systems LAB [📌H
 ## Members
 - **Professor**
     - **Yong-Goo Shin, Ph.D.**
-- Undergraduate
+- MS Student
   - Eunsol Park
   - Hyeonsu Kim
   - Woo-Jin Wang
+  - Miso Park
+- Undergraduate
   - BoSeok Jang
   - Busin Choi
-  - Miso Park
   - Seongjun Kim
-  - Kihyun Sung
+  - Kihyun Seong
   - Se-Eun Kwon
   - Yeontaek Oh
 
