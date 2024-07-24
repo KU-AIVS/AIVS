@@ -15,7 +15,7 @@ Korea University Sejong EIEN Artificial Intelligence & Vision Systems LAB [📌H
   - Woo-Jin Wang
   - Miso Park
 - Undergraduate
-  - BoSeok Jang
+  - Boseok Jang
   - Busin Choi
   - Seongjun Kim
   - Kihyun Seong
