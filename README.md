@@ -75,4 +75,3 @@ prediction, personalized medicine, and medical automation.
 ## Version
 - 2023-12-15 by H.S.Kim
 - 2024-09-23 by H.S.Kim
-![logo of AIVS](logo_eng.png "LOGO")
