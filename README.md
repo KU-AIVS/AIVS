@@ -20,6 +20,7 @@ Korea University Sejong EIEN Artificial Intelligence & Vision Systems LAB [📌H
   - Seongjun Kim
   - Kihyun Seong
   - Se-Eun Kwon
+  - 
 
 ## Research Topics
 ### 1. Computer Vision & Image Processing
@@ -75,3 +76,4 @@ prediction, personalized medicine, and medical automation.
 ## Version
 - 2023-12-15 by H.S.Kim
 - 2024-09-23 by H.S.Kim
+![logo of AIVS](logo_eng.png "LOGO")
