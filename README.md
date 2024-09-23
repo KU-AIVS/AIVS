@@ -20,7 +20,7 @@ Korea University Sejong EIEN Artificial Intelligence & Vision Systems LAB [📌H
   - Seongjun Kim
   - Kihyun Seong
   - Se-Eun Kwon
-  - 
+- 
 
 ## Research Topics
 ### 1. Computer Vision & Image Processing
